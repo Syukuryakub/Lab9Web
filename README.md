@@ -58,8 +58,10 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 # HASIL OUTPUTNYA 
 # HOME
 ![2](https://user-images.githubusercontent.com/56242226/121126374-42e35400-c852-11eb-945c-64f43bf09b92.PNG)
+
 # TAMBAH
 ![3](https://user-images.githubusercontent.com/56242226/121126388-48d93500-c852-11eb-9d0a-54f776ba2ef3.PNG)
+
 # UBAH
 ![4](https://user-images.githubusercontent.com/56242226/121126403-4c6cbc00-c852-11eb-9ee6-0221881e51de.PNG)
 
